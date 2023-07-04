@@ -1,0 +1,16 @@
+Clasificación de los salmos según los temas individuales de cada uno.Salmo de:
+1.Instrucción 1;19;39;
+2.Alabanza 8; 29; 93; 100
+3.Acción de gracias 30; 65; 103; 107; 116
+4.Penitencia 6; 32; 38; 51; 102; 130; 143 
+5.Confianza 3; 27; 31; 46; 56; 62; 86 
+6.Turbación 4; 13; 55; 64; 88
+7.Aspiración 42; 63; 80; 84; 137
+8.Historia 78; 105; 106
+9.Profecía (salmos mesiánicos) 2; 16; 22; 24; 40; 45; 68; 69; 72; 97; 110; 118
+
+Lista de Lectura
+INSERT INTO lecturas VALUES (1,'Instrucción'),
+(2,'Alabanza'),(3,'Acción de Gracias'),(4,'Penitencia'),(5,'Confianza'),
+(6,'Turbación'),(7,'Aspiración'),(8,'Historia'),
+(9,'Profecía')
